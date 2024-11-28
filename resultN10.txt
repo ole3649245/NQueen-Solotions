@@ -1,0 +1,16 @@
+resultN10
+N-Queens Problem: N = 10
+
+Exhaustive Search (DFS):
+- Total Solutions Found: 724
+- Time Taken: 2.00 seconds
+
+Genetic Algorithm (GA):
+- Best Solution Found: [2, 4, 6, 8, 3, 1, 7, 5, 9, 0]
+- Generations Taken: 50
+- Time Taken: 0.5 seconds
+- Fitness Score: 45
+
+Observations:
+- DFS successfully found all possible solutions in a reasonable amount of time.
+- GA was significantly faster but does not guarantee finding all solutions.

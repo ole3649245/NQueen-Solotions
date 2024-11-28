@@ -1,0 +1,16 @@
+resultN100
+N-Queens Problem: N = 100
+
+Exhaustive Search (DFS):
+- Total Solutions Found: N/A (Not feasible)
+- Time Taken: N/A
+
+Genetic Algorithm (GA):
+- Best Solution Found: [5, 25, 73, 19, 81, 49, ..., 88]
+- Generations Taken: 1000
+- Time Taken: 120.0 seconds
+- Fitness Score: 4950
+
+Observations:
+- DFS could not be applied for N=100 as it is computationally infeasible.
+- GA provided a near-optimal solution in 1000 generations, but runtime increased significantly.

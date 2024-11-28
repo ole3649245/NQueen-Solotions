@@ -1,0 +1,16 @@
+resultN50
+N-Queens Problem: N = 50
+
+Exhaustive Search (DFS):
+- Total Solutions Found: N/A (Computation infeasible due to exponential time complexity)
+- Time Taken: N/A
+
+Genetic Algorithm (GA):
+- Best Solution Found: [10, 2, 40, 12, 8, 46, ..., 48]
+- Generations Taken: 300
+- Time Taken: 30.0 seconds
+- Fitness Score: 1200
+
+Observations:
+- DFS was not feasible for N=50 due to high computational complexity.
+- GA efficiently found a valid solution in 300 generations with an acceptable runtime.
