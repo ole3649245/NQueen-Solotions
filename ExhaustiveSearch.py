@@ -1,4 +1,4 @@
-#Depth-First Search
+#Depth-First SearchSrisanNatthawan
 def is_safe(board, row, col, N):
     for i in range(row):
         if board[i] == col or \
