@@ -1,3 +1,4 @@
+#GeneticAlgorithmSrisanNatthawan
 import random
 import time
 
